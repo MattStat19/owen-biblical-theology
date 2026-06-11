@@ -6,9 +6,14 @@ A complete English translation of John Owen's *Theologoumena Pantodapa, sive De 
 
 - `Owen_Biblical_Theology_COMPLETE.docx` — the full translation in one Word document (~275,000 words): the Epistle to the Reader and all six books, with chapter arguments, Owen's section numerals, and the 1862 printed page numbers retained in brackets, e.g. `[ p. 156 ]`.
 - `Owen_Biblical_Theology_COMPLETE.json` — the same translation as structured JSON: metadata, front matter, and six books, each with chapters (digressions as their own entries) and typed blocks (`page`, `argument`, `paragraph` with `section` numerals), addressable as book/chapter/section.
-- `chapters/` — the translation as it was produced, in 35 chapter-part Word files covering the Epistle and Books I–II.
-- `segments/` — Books III–VI as markdown segment files (`seg_01.md`–`seg_13.md`), plus the style guide used for the translation.
+- `translation/` — **the source of truth**: the complete translation as numbered markdown files (`01`–`48`), Epistle through Book VI, plus the style guide. All edits and reviews happen here; the Word document and JSON are generated from these files.
+- `scripts/compile.py` — rebuilds `Owen_Biblical_Theology_COMPLETE.docx` and `.json` from `translation/`. Run `python3 scripts/compile.py` from the repo root after any edit (requires `python-docx`).
+- `chapters/` — archival: the original 35 chapter-part Word files for the Epistle and Books I–II, as first produced. Superseded by `translation/`; kept for provenance.
 - `source/` — the Latin source: Goold's 1862 text as plain text and as the original Word document.
+
+## Workflow
+
+All changes are made on feature branches and merged to `main` by pull request. The review loop: edit the relevant file in `translation/`, run `scripts/compile.py`, commit both the markdown and the regenerated deliverables, open a PR, and review the markdown diff.
 
 ## The work
 
