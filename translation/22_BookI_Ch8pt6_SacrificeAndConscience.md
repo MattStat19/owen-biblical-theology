@@ -1,0 +1,37 @@
+# Chapter VIII (continued)
+
+## [ p. 105 (cont.) ]
+
+XXXIX. That the Tyrians immolated a freeborn boy to Saturn, Curtius shows (Book 4, ch. 3). That the Egyptians immolated living men to brute gods, Herodotus and Diodorus Siculus testify. That Menelaus, in Egypt, sacrificed two boys, the priests told Herodotus
+
+## [ p. 106 ]
+
+(Clio [Book 1], p. 158). "The Thracians offer human blood to the gods," says Florus (History, Book 3, ch. 4). The Celts, immolating a man, strike him with a sword across a transverse partition, [as] Diodorus witnesses (Book 5). The Normans and Danes, every year in the month of January, immolated to their gods ninety-nine men, as many horses, with dogs, [as] Dithmar witnesses (Book 10). Of the Massilians, Lucan (3.303–305):
+
+"Here [were] barbarous sacred rites of the gods after their manner, altars built for funereal rites, and every tree purified with human gore."
+
+XL. "A man was sacrificed in Rhodes, on the sixteenth before the Kalends of November, to Saturn" [Greek: ethyeto kai en Rhodō Metageitniōnos hektē histamenou anthrōpos tō Kronō], says Theodoret (Book 7, Cure of Greek Affections). And: "The Phoenicians, in great calamities of wars, or droughts, or pestilences, sacrificed some one of their dearest to Saturn, appointing him to this by common votes" [Greek: Phoinikes en tais megalais symphorais ē polemōn, ē auchmōn, ē loimōn, ethyonto tōn philtatōn tina epipsēphizontes Kronō], says Porphyry (On Abstinence from Animals, Book 2). The catholic [universal] plague invaded even the people of God himself: "They sacrificed their sons and their daughters unto demons, and shed innocent blood, [even] the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan" (Ps. 106:37, 38). Whoever wishes for more, let him add also the things we noted in the little book On Divine Justice, ch. 8. That some Christians — at least in name — defiled themselves with this crime, I would show, were I not ashamed.
+
+XLI. The origin of these sacrifices Porphyry refers to Abraham (so Eusebius witnesses, Preparation for the Gospel, Book 1, ch. 9) — and [says] that he was called Saturn, [and] that his daughter, Gene, [when] immolated, had been begotten of Queen Anobret. That profane writers everywhere bring forth a shameful "unhistoricalness" [Greek: anistorēsia] of this kind, in investigating the origins of things and nations, is well known. Varro thinks the ancients devised this kind of sacrifice because the human race is the best of all seeds. The Druids judged that, unless a man's life were given for a man's life, the deity of the immortal gods could not be appeased (Caesar witnesses, On the Gallic War, Book 6). That the human race drew the use of sacrifices, for the expiation of sins, from ancient and catholic tradition, is clear. That a just and supreme God could be appeased, for the crimes of men, by the blood of cattle, anxious and doubtful minds — agitated with horror and the sense of sins — could never thoroughly persuade themselves; [and] the solicitous and well-nigh despairing Satan assails, in his manner. He easily persuades men that they have nothing more precious [than themselves]. Hence the mind to immolate themselves and others. That conscience, vexed and terrified with the sense of sin and the fear of punishment, was the bottom of this evil, the prophet shows (Mic. 6:7). That [conscience], Satan playing midwife, brought forth this monster into the light. Often they got no other response from the oracles — fearing, or about to dare, something great — than that [the gods] must be appeased with human blood: well known
+
+## [ p. 107 ]
+
+are the stories of Menoeceus and Iphigenia. The custom of the Lacedaemonians, beating themselves with scourges in the worship of the gods, had no other origin, Apollonius relates in Philostratus (Book 6, ch. 10): "The custom of the scourges," he says, "is performed for the Scythian Diana, because, as they say, the oracles prescribed these things; but to make counter-laws against the gods is, I think, a kind of madness" [Greek: to de tōn mastigōn ethos tē Artemidi tē apo Skythōn dratai, chrēsmōn phasin exēgoumenōn tauta, theois dʼ antinomothetein mania, oimai]. And Pausanias (Boeotica): "The Delphic oracle answered that the Megarians must sacrifice a comely boy to Dionysus" [Greek: aphiketo hama ek Delphōn tō Dionysō thyein paida hōraion]. Things twin to these occur everywhere among the historians; to what height it would climb, Satanic malice has not [yet] found, having advanced thus far.
+
+XLII. But of this impious heap there is no end. It is well known that the adulteries and debaucheries of the dung-gods were, to very many, an incitement and an apology for perpetrating all impure outrages — that I may add that example in the second place. For after they had feigned these gods for themselves, they at once also feigned [them] like themselves — that is, liars, perjurers, and stained with every impurity. Take away the brawls, lies, fights, perjuries, [and] adulteries of the gods: dwarfs will those certain ancient writers be, who now advance with giant step; with these, alas! Christian youth is still polluted, and is immolated to that Moloch of which John Comenius — a learned and pious man — complains. I do not wish, by repeating, to thrust upon chaste ears the filthiest crimes, eternally to be kept silent by the saints. To make plain to what end the devil suggested these things to the minds of nefarious men, a few things can be recalled: let that [saying] of Mercury about Jove, in Plautus (Prologue to the Amphitryo), suffice:
+
+"For I believe you already know how my father is — how free he is in these unpunished matters, and how great a lover, when once something has pleased him."
+
+And:
+
+"How often does he himself, who leads the heaven and the clouds, put on lesser shapes." (Seneca, Hippolytus)
+
+XLIII. Ah! how often does the wet and soft clay drink in blasphemies of this kind, the stupid molder applauding. Excellently Augustine: "All the worshipers of such gods, as soon as lust has impelled them, look rather (as Persius says, 'steeped in boiling venom') at what [the gods] have done basely, than at what Plato taught or Cato judged" (On the City of God, Book 2, ch. 7). Of the filthiest worship of the Mother of the gods, the reader will find more in that place. What minds and affections the human race — too headlong of itself into vices — conceived from those examples set before it, Terence sets before the eyes of all in his Chaerea (Eunuch, Act 3, Sc. 5.35):
+
+"While [the bath] is being prepared, the maiden sits in the chamber, looking up at a certain painted tablet, where this picture was: how Jove, they say, once sent a golden shower into the lap of Danaë. I too began to gaze at it; and because he had played a like game long ago, my mind rejoiced the more exceedingly —
+
+## [ p. 108 ]
+
+[to think] that a god had turned himself into a man, and through another's roof-tiles had come secretly, through the skylight, to play a trick on a woman. But what god? He who shakes the highest temples of heaven with his thunder. And I, a manikin, should not do this? I did indeed do it — and gladly."
+
+[Part 6 ends here. Section XLIV continues — how men exhorted one another, by the gods' example, to the filthiest crimes (Catullus); temple prostitution; the wicked impersonating gods (the Mundus and Paulina affair from Josephus) — and opens Part 7, continuing on p. 108.]
